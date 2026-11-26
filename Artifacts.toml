@@ -1,0 +1,174 @@
+[[smf]]
+arch = "aarch64"
+git-tree-sha1 = "c6ec78a108804051e4c6f9850957d2d761d3e9e5"
+os = "macos"
+
+    [[smf.download]]
+    sha256 = "ababb40e58d890357b362d29ec564209296f95362fb5bdf502b2028c874184ea"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.aarch64-apple-darwin.tar.gz"
+[[smf]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f53ed97d2388406712e4d9f50e740553db7ee7f2"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "a2c0541e164912d544634a2da07d254456b066dde9dabb30c45c637b84738f95"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[smf]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5f6d772d788d927448c08779b07d6394e55d7bc"
+libc = "musl"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "fba034449b5d32f29041be3b67a9f434c17ce1e0254f916239e282309dccc3dc"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.aarch64-linux-musl-cxx11.tar.gz"
+[[smf]]
+arch = "aarch64"
+git-tree-sha1 = "50bfbe6e0905e6244e945c9dfc3cdcea32fcfe43"
+os = "freebsd"
+
+    [[smf.download]]
+    sha256 = "41d0d31b02ff3224cd533484e1ae979e92a2a3e74bfe704d34ada9a5ea7d5b7e"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.aarch64-unknown-freebsd.tar.gz"
+[[smf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfbda0158bee3c399aee3e9a404b4243aa8f8c18"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "40fae997706e1cb3589fade236c52ed7c385633c3339b8d54fbbe0fb3036d89f"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[smf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d318703286cac88a92b5cec7263a0c10bedbae6b"
+libc = "musl"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "4f8c8024aa007c3b83d76e41d62133dd52268cdc4203b5a49a20fb69564e1daf"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[smf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f7b76ecbc9cacb03576ce5bfbb19897cbab81bd"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "cfc9a94c5edac046f8d8f301cf07f2abecff05a9cfa53f37860ddea93a624aad"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[smf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8096947da12f06bfbab7fdc6b62b0be8abf7044"
+libc = "musl"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "a23e980ad8823717e54f225a20e69ee2a6a852e9f2822c69dff4f48f586297d1"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[smf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0dc7826619bb9b68ba93c48941d9739c002fd73"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "f682d3d5f2376aaf26fb990267fba06c235e1efa25a2d21f07506e704ae00973"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[smf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b7d5e7d36d310a895e8475bfd1672b2af804124"
+libc = "musl"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "6c11eb3901ce5eb4f054b6968aff74fdf94ec8b9d3002dfd193dfef3af6f55c8"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.i686-linux-musl-cxx11.tar.gz"
+[[smf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3371580c9d533a9347b0b4c9032b05dc1a21320"
+os = "windows"
+
+    [[smf.download]]
+    sha256 = "6105b719f49e7578f1d79112a02dd522db99703f991254f23ddce2cfa236d2b7"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.i686-w64-mingw32-cxx11.tar.gz"
+[[smf]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c27ac2467aed7c4a5ab04ec2daf13f5598e0ccab"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "0c8f1eb4f3dccdad0ac516350888be89a3a3c5a22a726acd14c7df33eaabd658"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[smf]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ee9fc030515f917490c50af2e2929351279104d"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "87c7a976544da69b1176e409a026d40d86dd33e7d6b6c60b6e695d8726dd3e17"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[smf]]
+arch = "x86_64"
+git-tree-sha1 = "6e7c21c8da70c0450654b940fe78502c99a7c1e6"
+os = "macos"
+
+    [[smf.download]]
+    sha256 = "0766b945ad69173f501128b8fd300b4e6a56c33075bcf65c8c67c39cebae01df"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.x86_64-apple-darwin.tar.gz"
+[[smf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad99e001544ca94d3e772ae8abe966dd1a96466d"
+libc = "glibc"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "595ccf83635c3a0b2148fe0c32dbcc2c80312c98764b1ff38f4d090a6132357f"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[smf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "235002b181ca2fd8666121056d947df9bb45e27c"
+libc = "musl"
+os = "linux"
+
+    [[smf.download]]
+    sha256 = "b00bf652f673df393a82393579dd839f531d26791092abf1aff300902e011b54"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.x86_64-linux-musl-cxx11.tar.gz"
+[[smf]]
+arch = "x86_64"
+git-tree-sha1 = "0c8cae063625209e5d822d0d71b562217f12e824"
+os = "freebsd"
+
+    [[smf.download]]
+    sha256 = "cede050c71f1ff44573108dd7db4e464d90db03882c29bd9e717b23504addae8"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.x86_64-unknown-freebsd.tar.gz"
+[[smf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a47af744e9a21dccd712f5cbb8be41d90a993a6f"
+os = "windows"
+
+    [[smf.download]]
+    sha256 = "2ec6c6fe21e854a697c6d7fc599261a53059c5eb210e796cb488935fc1244acb"
+    url = "https://github.com/JuliaBinaryWrappers/smf_jll.jl/releases/download/smf-v0.2.1+0/smf.v0.2.1.x86_64-w64-mingw32-cxx11.tar.gz"
